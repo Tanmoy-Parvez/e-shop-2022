@@ -1,0 +1,9 @@
+.login-container {
+  background-image: url("../../images/air-balloon.jpg");
+  height: 567px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  padding-top: 100px;
+}
